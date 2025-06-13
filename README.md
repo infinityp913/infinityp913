@@ -1,6 +1,6 @@
 Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
-Reach out at infinityp913 at gmail dot com.
+Reach out at infinityp913 at gmail dot com.  
 A not-updated website: [https://ananthp.vercel.app](https://ananthp.vercel.app)
 
 <!--
