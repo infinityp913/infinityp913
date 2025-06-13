@@ -1,7 +1,6 @@
 Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
 Reach out at infinityp913 at gmail dot com.  
-A not-updated website: [https://ananthp.vercel.app](https://ananthp.vercel.app)
 
 <!--
 **infinityp913/infinityp913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
