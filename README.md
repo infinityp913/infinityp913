@@ -1,6 +1,8 @@
 Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
-Reach out at infinityp913 at gmail dot com.  
+I'm building [Matherium](https://matherium.org)  
+
+Reach out at ananth at matherium dot com
 
 <!--
 **infinityp913/infinityp913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
