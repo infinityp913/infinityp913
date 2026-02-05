@@ -1,6 +1,6 @@
 Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
-- 🔨 Building Cursor for educational videos @ Chalkboard.
+- 🔨 Building the Cursor for educational videos @ Chalkboard.
 - 📢 Built voice agents for F1 visa interviews, customer service and more @ [Matherium](https://matherium.org).
 - 🏛 Worked on photogrammetry, visualizations and automation at [Tharros Archaelogical Research Project](https://air.ht.lu.se/s/tharros/page/home)
 - 👟 Building AI for Nike
