@@ -1,7 +1,8 @@
-Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
+<img width="571" height="571" alt="image" src="https://github.com/user-attachments/assets/1b08fa60-0fa2-4649-8469-422e619c9ab7" />Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
-- 🔨 I'm building [Matherium](https://matherium.org).
-- 🏛 Working on photogrammetry, visualizations and automation at [Tharros Archaelogical Research Project](https://air.ht.lu.se/s/tharros/page/home)
+- 🔨 Building Cursor for educational videos @ Chalkboard.
+- 📢 Built voice agents for F1 visa interviews, customer service and more @ [Matherium](https://matherium.org).
+- 🏛 Worked on photogrammetry, visualizations and automation at [Tharros Archaelogical Research Project](https://air.ht.lu.se/s/tharros/page/home)
 - 👟 Building AI for Nike
 - 🔍 Exploring new products and businesses to build
 
