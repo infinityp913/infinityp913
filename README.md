@@ -6,7 +6,7 @@ Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theo
 - 👟 Building AI for Nike
 - 🔍 Exploring new products and businesses to build
 
-Reach out at ananth at matherium dot com.
+Reach out at infinityp913 at gmail dot com.
 
 <!--
 **infinityp913/infinityp913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
