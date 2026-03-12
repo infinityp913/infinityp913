@@ -1,6 +1,6 @@
 Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theory, neuroscience, philosophy and productivity.
 
-- 🔨 Building the AI OS for enterprise training @ [Chalkboard](https://trychalkboard.com).
+- 🔨 Building the next thing.
 - 📢 Built voice agents for F1 visa interviews, customer service and more @ [Matherium](https://matherium.org).
 - 🏛 Worked on photogrammetry, visualizations and automation at [Tharros Archaelogical Research Project](https://air.ht.lu.se/s/tharros/page/home)
 - 👟 Building AI for Nike
