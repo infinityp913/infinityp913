@@ -3,7 +3,7 @@ Hi, I'm Ananth and I'm an entrepreneur and an ML Engineer, interested in AI theo
 - 🔨 Building the next thing.
 - 📢 Built voice agents for F1 visa interviews, customer service and more @ [Matherium](https://matherium.org).
 - 🏛 Worked on photogrammetry, visualizations and automation at [Tharros Archaelogical Research Project](https://air.ht.lu.se/s/tharros/page/home)
-- 👟 Building AI for Nike
+- 👟 Prev built AI for Nike
 - 🔍 Exploring new products and businesses to build
 
 Reach out at infinityp913 at gmail dot com.
